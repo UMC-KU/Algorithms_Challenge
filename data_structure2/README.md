@@ -1,6 +1,5 @@
 # Data Structre2 (자료구조2)
 
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
 
 이 자료구조에서는 Map, Set, Priority Queue(우선순위 큐)를 익히는 문제들로 뽑았습니다.
 
