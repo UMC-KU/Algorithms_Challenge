@@ -1,6 +1,5 @@
 # Math (수학)
 
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
 
 현재 단계는 기초 수학을 익히는 문제들로 뽑았습니다.
 
@@ -13,8 +12,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6781)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/5618" target="_blank">5618</a> | <a href="https://www.acmicpc.net/problem/5618" target="_blank">공약수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/math/5618">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22864" target="_blank">22864</a> | <a href="https://www.acmicpc.net/problem/22864" target="_blank">피로도</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/math/22864">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2745" target="_blank">2745</a> | <a href="https://www.acmicpc.net/problem/2745" target="_blank">진법 변환</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/math/2745">바로가기</a> |
