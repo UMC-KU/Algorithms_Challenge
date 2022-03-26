@@ -1,6 +1,5 @@
 # Dynamic Programming On Trees (트리 디피)
 
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
 
 트리에서의 다이나믹 프로그래밍(Tree DP, 트리디피) 문제를 뽑아봤습니다.
 
@@ -17,8 +16,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7166)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          | 
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a> | <a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/dynamic_programming_on_trees/15681">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2533" target="_blank">2533</a> | <a href="https://www.acmicpc.net/problem/2533" target="_blank">사회망 서비스(SNS)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/dynamic_programming_on_trees/2533">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2213" target="_blank">2213</a> | <a href="https://www.acmicpc.net/problem/2213" target="_blank">트리의 독립집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="./../solution/dynamic_programming_on_trees/2213">바로가기</a> |
