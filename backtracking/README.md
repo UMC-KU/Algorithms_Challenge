@@ -1,7 +1,5 @@
 # Backtracking (백트래킹)
 
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
-
 백트래킹 문제를 뽑았습니다.
 
 백트래킹의 기본 연습 문제인 N과 M 시리즈 모든 문제를 추천 문제로 뽑았습니다.
@@ -14,7 +12,7 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7135)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a> | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/15650" target="_blank">15650</a> | <a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/15651" target="_blank">15651</a> | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
