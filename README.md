@@ -28,10 +28,10 @@
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |
-| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 |
-| 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 |
-| 02 | Math | 수학 | [바로가기](./math) | 18 | 29 |
-| 03 | String | 문자열 | [바로가기](./string) | 19 | 64 |
+| 00 | Math | 수학 | [바로가기](./math) | 18 | 29 |
+| 01 | String | 문자열 | [바로가기](./string) | 19 | 64 |
+| 02 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 |
+| 03 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 |
 | 04 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 33 | 94 |
 | 05 | Implementation | 구현 | [바로가기](./implementation) | 30 | 51 |
 | 06 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 |
@@ -39,8 +39,8 @@
 | 08 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 |
 | 09 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 27 | 80 |
 | 10 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 |
-| 11 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 28 | 81 |
-| 12 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 31 | 96 |
+| 11 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 31 | 96 |
+| 12 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 28 | 81 |
 | 13 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 20 | 66 |
 | 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 |
 | 15 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 53 |
