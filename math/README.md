@@ -12,7 +12,7 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6781)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |  준영  |  현석  |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/5618" target="_blank">5618</a> | <a href="https://www.acmicpc.net/problem/5618" target="_blank">공약수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/math/5618">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22864" target="_blank">22864</a> | <a href="https://www.acmicpc.net/problem/22864" target="_blank">피로도</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/math/22864">바로가기</a> |
