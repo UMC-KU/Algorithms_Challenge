@@ -10,8 +10,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6779)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          | 준영 | 현석 |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1158" target="_blank">1158</a> | <a href="https://www.acmicpc.net/problem/1158" target="_blank">요세푸스 문제</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a> | <a href="https://www.acmicpc.net/problem/10828" target="_blank">스택</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012</a> | <a href="https://www.acmicpc.net/problem/9012" target="_blank">괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 
